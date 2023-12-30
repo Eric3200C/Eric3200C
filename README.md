@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m a master student from CUHK-Shenzhen.
+- 📫 How to reach me: zhenyangcai@link.cuhk.edu.cn
+
 <!--
 **Eric3200C/Eric3200C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
