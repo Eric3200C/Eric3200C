@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m a master student from CUHK-Shenzhen.
+- 🌱 I’m a master student from the Chinese University of Hongkong, Shenzhen.
 - 👯 I am currently interested in LLM Efficiency and welcome everyone to exchange ideas with me.
 - 📫 How to reach me: zhenyangcai@link.cuhk.edu.cn
 
