@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m a master student from the Chinese University of Hongkong, Shenzhen.
-- 👯 I am currently interested in LLM Efficiency and welcome everyone to exchange ideas with me.
+- 🌱 I’m a master student from The Chinese University of Hongkong, Shenzhen.
+- 👯 I am currently interested in LLM (especially Efficient LLM and Multimodal LLM) and welcome everyone to exchange ideas with me.
 - 📫 How to reach me: zhenyangcai@link.cuhk.edu.cn
 
 <!--
