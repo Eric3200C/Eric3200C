@@ -1,7 +1,7 @@
 ### Hello, 你好呀 ! 👋
 
-- 🌱 I’m a master student from The Chinese University of Hong Kong, Shenzhen.
-- 👯 I am currently interested in LLM (especially Medical LLM and Multimodal LLM) and welcome everyone to exchange ideas with me.
+- 🌱 I’m a master's student from The Chinese University of Hong Kong, Shenzhen.
+- 👯 I am currently interested in **Large Language Models**🦙 (especially their applications on the medical domain).
 - 📫 How to reach me: zhenyangcai@link.cuhk.edu.cn
 
 <!--
